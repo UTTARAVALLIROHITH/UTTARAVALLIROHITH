@@ -4,6 +4,10 @@
   Generated assets are maintained by GitHub Actions.
 -->
 
+# Uttaravalli Rohith — GitHub Profile
+
+**Uttaravalli Rohith** is a Diploma Computer Engineering (CME) student from Andhra Pradesh, India, building software development and cybersecurity projects. Explore my GitHub repositories, web development projects, API security experiments, and computer engineering learning journey.
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=ROHITH&fontSize=76&fontColor=ffffff&fontAlignY=38&desc=Explore%20%E2%80%A2%20Build%20%E2%80%A2%20Secure%20%E2%80%A2%20Learn&descAlignY=59&descSize=17&animation=fadeIn&color=0:070B1D,35:14213D,70:243B67,100:536DFE" alt="Animated space-inspired Rohith profile banner" />
